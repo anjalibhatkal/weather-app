@@ -1,0 +1,39 @@
+.dark-mode {
+  background: linear-gradient(90deg, #484545, #b69305);
+}
+
+.dark-mode .custom-navbar {
+  background-color: rgba(47, 44, 22, 0.2);
+  color: #fceaa0;
+}
+
+.dark-mode .card {
+  background-color: rgba(253, 234, 109, 0.2);
+  color: #f7e59d;
+}
+
+.dark-mode .search input {
+  background-color: rgba(201, 199, 199, 0.2);
+  color: #ccc;
+}
+
+.dark-mode .search button {
+  background-color: rgba(201, 199, 199, 0.2);
+}
+
+.dark-mode #mode-toggle:hover {
+  background-color: rgba(100, 84, 19, 0.9);
+}
+
+.search button:hover {
+  background: #535558;
+  width: 100px;
+  height: 55px;
+}
+.dark-mode .weather h1 {
+  color: #f1da7d;
+}
+
+.dark-mode .details {
+  background-color: rgba(60, 60, 60, 0.2);
+}
